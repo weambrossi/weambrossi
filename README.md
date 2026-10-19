@@ -8,8 +8,14 @@ weambrossi@github:~$ whoami
  ╚══╝╚══╝  ╚═╝  ╚═╝ ╚══════╝ ╚══════╝ ╚══════╝
 ```
 
+<!-- streak:start -->
 ```console
 weambrossi@github:~$ ./streak.sh
-```
 
-<img src="https://streak-stats.demolab.com?user=weambrossi&background=0D1117&border=39FF14&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakNum=39FF14&sideNums=39FF14&currStreakLabel=39FF14&sideLabels=8B949E&dates=8B949E&border_radius=0" alt="GitHub streak" />
+  total contributions  816         Sep 2, 2024 - present
+  current streak       4 days      Oct 15, 2026 - Oct 18, 2026
+  longest streak       9 days      Feb 5, 2026 - Feb 13, 2026
+
+  last updated 2026-10-19 UTC
+```
+<!-- streak:end -->
