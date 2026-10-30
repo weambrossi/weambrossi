@@ -13,9 +13,9 @@ weambrossi@github:~$ whoami
 weambrossi@github:~$ ./streak.sh
 
   total contributions  874         Sep 2, 2024 - present
-  current streak       5 days      Oct 24, 2026 - Oct 28, 2026
+  current streak       0 days      -
   longest streak       9 days      Feb 5, 2026 - Feb 13, 2026
 
-  last updated 2026-10-29 UTC
+  last updated 2026-10-30 UTC
 ```
 <!-- streak:end -->
