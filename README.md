@@ -12,10 +12,10 @@ weambrossi@github:~$ whoami
 ```console
 weambrossi@github:~$ ./streak.sh
 
-  total contributions  1,145       Sep 2, 2024 - present
-  current streak       0 days      -
+  total contributions  1,148       Sep 2, 2024 - present
+  current streak       1 day       Nov 23, 2026
   longest streak       9 days      Feb 5, 2026 - Feb 13, 2026
 
-  last updated 2026-11-22 UTC
+  last updated 2026-11-23 UTC
 ```
 <!-- streak:end -->
